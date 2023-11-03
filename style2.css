@@ -1,0 +1,7 @@
+:root {
+  --primary-color: rgb(53, 53, 126);
+}
+
+.container {
+  align-items: center;
+}

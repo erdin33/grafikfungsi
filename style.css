@@ -1,0 +1,11 @@
+:root {
+  --primary-color: rgb(0, 136, 255);
+}
+/* footer */
+footer {
+  background-color: var(--primary-color);
+  text-align: center;
+  color: aliceblue;
+  padding: 1.5rem;
+  margin-top: auto;
+}
